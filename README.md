@@ -11,6 +11,7 @@ Junior ML Engineer focused on classic machine learning.
 ### Tech stack
 - Python, Pandas, NumPy
 - scikit-learn
+- XGBoost, Catboost, PyTorch, DL
 - SQL
 
 📫 Contact: azaira1603@gmail.com
