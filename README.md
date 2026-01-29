@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi, I’m Irina
+
+Junior ML Engineer focused on classic machine learning.
+
+### What I work with
+- classification and regression tasks
+- feature engineering and data preprocessing
+- model evaluation and validation
+- working with real datasets
+
+### Tech stack
+- Python, Pandas, NumPy
+- scikit-learn
+- SQL
+
+📫 Contact: azaira1603@gmail.com
+
+
 
 <!--
 **azvira/azvira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
