@@ -1,34 +1,67 @@
-## Hi, I’m Irina
+# Привет 👋
 
-Junior ML Engineer focused on classic machine learning.
+Я Machine Learning Engineer, специализирующийся на рекомендательных системах, ранжировании, NLP и production ML.
 
-### What I work with
-- classification and regression tasks
-- feature engineering and data preprocessing
-- model evaluation and validation
-- working with real datasets
+Большая часть моей работы связана с построением ranking pipelines, улучшением качества рекомендаций, проектированием offline validation, созданием надежных признаков и внедрением ML-моделей в реальные пользовательские продукты.
 
-### Tech stack
-- Python, Pandas, NumPy
-- scikit-learn
-- XGBoost, Catboost, PyTorch, DL
-- SQL
+## Основные интересы
 
-📫 Contact: azaira1603@gmail.com
+- Рекомендательные системы
+- Learning to Rank
+- Candidate Generation
+- Retrieval и embeddings
+- NLP на основе transformer-based моделей
+- Offline evaluation
+- Feature engineering
+- Production ML systems
 
+## Технологии, с которыми я работаю
 
+```python
+languages = ["Python", "C++"]
 
-<!--
-**azvira/azvira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ml = [
+    "PyTorch",
+    "scikit-learn",
+    "CatBoost",
+    "XGBoost",
+    "LightGBM",
+    "Hugging Face Transformers",
+    "Sentence Transformers",
+]
 
-Here are some ideas to get you started:
+tools = [
+    "SQL",
+    "Git",
+    "Linux",
+    "Docker",
+    "Airflow",
+    "MLflow",
+    "FAISS",
+    "pandas",
+    "NumPy",
+    "SciPy",
+]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Опыт
+
+Я работал над системами ранжирования и рекомендаций для Meetup, включая такие recommendation surfaces, как home feed, search и email.
+
+Некоторые задачи, которыми я занимался:
+
+- Ranking pipelines на основе CatBoostRanker
+- Генерация обучающих данных из impressions, clicks, RSVPs, attendance и check-ins
+- Point-in-time feature generation для предотвращения data leakage
+- Candidate generation и filtering для live recommendations
+- Offline evaluation с использованием NDCG@10, Recall@10, MRR@10 и MAP@10
+- Online scoring и reranking pipelines
+
+## Образование
+
+Я изучал математику и системный анализ в Белорусском государственном университете, с сильным фокусом на математические основы, алгоритмы, анализ данных и машинное обучение.
+
+## Связаться со мной
+
+- LinkedIn: `your-linkedin`
+- Email: `your-email`
