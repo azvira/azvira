@@ -25,5 +25,5 @@ Strong mathematical background with advanced coursework in data analysis, machin
 
 ## Contacts
 
-- LinkedIn: `linkedin.com/in/azvira`
-- Email: `your-email`
+- LinkedIn: [linkedin.com/in/azvira](https://linkedin.com/in/azvira)
+- Email: [azaira1603@gmail.com](mailto:azaira1603@gmail.com)
