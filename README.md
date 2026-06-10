@@ -21,9 +21,9 @@ Python, C++, PyTorch, scikit-learn, CatBoost, XGBoost, LightGBM, Hugging Face Tr
 
 ## Background
 
-Bachelor's degree in Mathematics and System Analysis from Belarusian State University.
+Strong mathematical background with advanced coursework in data analysis, machine learning, and system analysis.
 
 ## Contacts
 
-- LinkedIn: `your-linkedin`
+- LinkedIn: ``
 - Email: `your-email`
